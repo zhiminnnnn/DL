@@ -1,4 +1,4 @@
-![photo_6116432075943512925_w](https://github.com/user-attachments/assets/79ab4efc-49d8-46b5-b7fa-bd2e201af159)<div align="justify">
+<div align="justify">
 
 # Lab 1 - Reflection
 Date: 17 Nov 2025
