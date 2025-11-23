@@ -1,5 +1,3 @@
-<div align="justify">
-
 # Lab 1 - Reflection
 Date: 17 Nov 2025
 
@@ -10,4 +8,3 @@ After completing this lab, I learned the physical implementation of basic logic 
 Overall, this lab helped me connect what I learned in theory to real hardware. It showed me how basic logic ideas become real circuits on a breadboard. I also became more confident in using electronic parts and checking my wiring. Most importantly, I learned that small mistakes can affect the whole circuit, so being careful is very important. This lab gives me a good foundation for future digital logic lessons and projects.
 
 ![photo_6116432075943512925_w](https://github.com/user-attachments/assets/7cba06f0-8bb0-4a56-badb-f5d7a55b3d2f)
-</div>
