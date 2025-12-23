@@ -3,11 +3,11 @@
 # Lab 1 - Reflection
 Date: 17 Nov 2025
 
-This is a hands-on session focused on building and testing combinational logic circuits using ETS-5000 Digital Training System. We get to learn to physically implement basic logic gates (AND, OR, NOT) using integrated circuits (ICs) on a breadboard, by using input switches to set logic levels, output LEDs to observe results, and digital probes to diagnose connections.
+This lab is really cool because we get to build and test logic circuits using the ETS-5000 Digital Training System. We learn how to make circuits using basic logic gates like AND, OR and NOT on a breadboard. We use switches to set the logic levels. We can see the results through the LEDs. We also use probes to check the connections. 
 
-Through this lab, I learned the physical implementation of basic logic gates using ICs like 7408, 7432? and 7404. I also understand how to combine multiple gates to form more complex circuits and analyze their outputs. For example, building XOR gate using only basic logic gates.
+I learned a lot from this lab about the physical implementation of basic logic gates using ICs like 7408 and 7432 and 7404. I now know how to put together logic gates to make more complex circuits. For example I learned how to make an XOR gate using AND, OR, and NOT gates.
 
-In terms of testing and debugging skills, I learned to test circuits systematically and compare experimental results with theoretical truth tables, and also using a digital probe to check power (Vcc and GND) and signal integrity at various points in the circuit for fault diagnosis. Moreover, it enhances my problem-solving and critical thinking skills, because I learned to interpret multi-gate circuits and identify their equivalent logic functions, and also to compare expected vs. actual results and draw conclusions.
+When it comes to testing and debugging skills, I learned how to test circuits to see how the actual results match up with theory. We also use a probe to check the power and signal at different points in the circuit. This helps us figure out what is going wrong. Testing and debugging skills are really important. They help us solve problems and think critically.
 
 Overall, this lab helped me connect what I learned in theory to real hardware. I also became more confident in using electronic parts and checking my wiring. Most importantly, I learned that small mistakes can affect the whole circuit, so being careful is very important. This lab gives me a good foundation for future digital logic lessons and projects.
 
