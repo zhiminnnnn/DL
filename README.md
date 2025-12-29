@@ -1,11 +1,14 @@
 <div align="justify">
+<div align="center">
+  
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=SECR1013+Digital+Logic)](https://git.io/typing-svg)
+</div>
 
-# SECR1013 Digital Logic
 ```yaml
 Section : 03
 Lecturer: Ts. Dr. Raja Zahilah Binti Raja Mohd Radzi
 ```
-This course introduces how digital electronics work and how to design and build basic digital circuits through theory, hands-on labs, and projects.
+_This course introduces how digital electronics work and how to design and build basic digital circuits through theory, hands-on labs, and projects._
 <table>
   <thead>
     <tr>
