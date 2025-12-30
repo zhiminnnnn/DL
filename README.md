@@ -86,4 +86,7 @@ _This course introduces how digital electronics work and how to design and build
     </tr>
   </tbody>
 </table>
+
+## Course Reflection
+> The Digital Logic course has been very important in my understanding of the basis and application of digital systems. In the beginning, topics like number systems, logic gates, and Boolean algebra were challenging and required careful thinking. Through continued lectures and tutorials, I had improvement in the realization of those fundamental concepts. The lab work was really important in reinforcing the learning. Using Deeds Software to design and simulate a digital circuit has helped me connect theoretical knowledge with practical applications. Construction of combinational and sequential circuits taught me how to analyze circuit behavior, trace errors in circuits, and make improvements in designs by considering system limitations. The project-based learning component further enhanced my learning experience by encouraging teamwork, communication, and proper task coordination. Working with others taught me how to manage information effectively and follow shared standards and best practices. Overall, the class enhanced my critical thinking, problem-solving, and technical skills and better prepared me for more advanced computer systems and digital technologies courses.
 </div>
