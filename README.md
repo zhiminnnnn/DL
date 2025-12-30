@@ -22,47 +22,47 @@ _This course introduces how digital electronics work and how to design and build
     <tr>
       <td align="center">1</td>
       <td>Digital Logic Overview</td>
-      <td><a href="https://drive.google.com/drive/folders/1Am6yGhVmxcajvUN9_4760GgHyPtWjvuT?usp=drive_link">Click here</a></td>
+      <td align="center"><a href="https://drive.google.com/drive/folders/1Am6yGhVmxcajvUN9_4760GgHyPtWjvuT?usp=drive_link"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
     </tr>
     <tr>
       <td align="center">2</td>
       <td>Number Systems & Codes</td>
-      <td><a href="https://drive.google.com/drive/folders/1Am6yGhVmxcajvUN9_4760GgHyPtWjvuT?usp=drive_link">Click here</a></td>
+      <td align="center"><a href="https://drive.google.com/drive/folders/1Am6yGhVmxcajvUN9_4760GgHyPtWjvuT?usp=drive_link"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
     </tr>
     <tr>
       <td align="center">3</td>
       <td>Logic Gates</td>
-      <td><a href="https://drive.google.com/drive/folders/1Am6yGhVmxcajvUN9_4760GgHyPtWjvuT?usp=drive_link">Click here</a></td>
+      <td align="center"><a href="https://drive.google.com/drive/folders/1Am6yGhVmxcajvUN9_4760GgHyPtWjvuT?usp=drive_link"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
     </tr>
     <tr>
       <td align="center">4</td>
       <td>Boolean Algebra & Logic Simplification</td>
-      <td><a href="https://drive.google.com/drive/folders/1Am6yGhVmxcajvUN9_4760GgHyPtWjvuT?usp=drive_link">Click here</a></td>
+      <td align="center"><a href="https://drive.google.com/drive/folders/1Am6yGhVmxcajvUN9_4760GgHyPtWjvuT?usp=drive_link"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
     </tr>
     <tr>
       <td align="center">5</td>
       <td>Combinational Logic Circuit</td>
-      <td><a href="https://drive.google.com/drive/folders/1Am6yGhVmxcajvUN9_4760GgHyPtWjvuT?usp=drive_link">Click here</a></td>
+      <td align="center"><a href="https://drive.google.com/drive/folders/1Am6yGhVmxcajvUN9_4760GgHyPtWjvuT?usp=drive_link"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
     </tr>
     <tr>
       <td align="center">6</td>
       <td>Functions of Combinational Logic</td>
-      <td><a href="https://drive.google.com/drive/folders/1Am6yGhVmxcajvUN9_4760GgHyPtWjvuT?usp=drive_link">Click here</a></td>
+      <td align="center"><a href="https://drive.google.com/drive/folders/1Am6yGhVmxcajvUN9_4760GgHyPtWjvuT?usp=drive_link"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
     </tr>
     <tr>
       <td align="center">7</td>
       <td>Latches & Flip-flops</td>
-      <td><a href="https://drive.google.com/drive/folders/1Am6yGhVmxcajvUN9_4760GgHyPtWjvuT?usp=drive_link">Click here</a></td>
+      <td align="center"><a href="https://drive.google.com/drive/folders/1Am6yGhVmxcajvUN9_4760GgHyPtWjvuT?usp=drive_link"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
     </tr>
     <tr>
       <td align="center">8</td>
       <td>Counters: Asynchronous & Synchronous</td>
-      <td><a href="https://drive.google.com/drive/folders/1Am6yGhVmxcajvUN9_4760GgHyPtWjvuT?usp=drive_link">Click here</a></td>
+      <td align="center"><a href="https://drive.google.com/drive/folders/1Am6yGhVmxcajvUN9_4760GgHyPtWjvuT?usp=drive_link"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
     </tr>
     <tr>
       <td align="center">9</td>
       <td>Shift Registers</td>
-      <td><a href="https://drive.google.com/drive/folders/1Am6yGhVmxcajvUN9_4760GgHyPtWjvuT?usp=drive_link">Click here</a></td>
+      <td align="center"><a href="https://drive.google.com/drive/folders/1Am6yGhVmxcajvUN9_4760GgHyPtWjvuT?usp=drive_link"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
     </tr>
   </tbody>
 </table>
@@ -78,11 +78,11 @@ _This course introduces how digital electronics work and how to design and build
   <tbody>
     <tr>
       <td>Lab 1</td>
-      <td><a href="https://github.com/zhiminnnnn/DL/blob/main/Lab%201.md">Click here</a></td>
+      <td align="center"><a href="https://github.com/zhiminnnnn/DL/blob/main/Lab%201.md"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
     </tr>
     <tr>
       <td>Lab 2</td>
-      <td><a href="https://github.com/zhiminnnnn/DL/blob/main/Lab%202.pdf">Click here</a></td>
+      <td align="center"><a href="https://github.com/zhiminnnnn/DL/blob/main/Lab%202.pdf"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
     </tr>
   </tbody>
 </table>
