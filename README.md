@@ -77,16 +77,20 @@ _This course introduces how digital electronics work and how to design and build
   </thead>
   <tbody>
     <tr>
-      <td>Lab 1</td>
+      <td>Lab 1: Combinational Logic</td>
       <td align="center"><a href="https://github.com/zhiminnnnn/DL/blob/main/Lab%201.md"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
     </tr>
     <tr>
-      <td>Lab 2</td>
+      <td>Lab 2: Combinational Digital Circuit Design Simulation</td>
       <td align="center"><a href="https://github.com/zhiminnnnn/DL/blob/main/Lab%202.pdf"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
     </tr>
     <tr>
-      <td>Lab 3</td>
+      <td>Lab 3: Synchronous Digital Counter</td>
       <td align="center"><a href="https://github.com/zhiminnnnn/DL/blob/main/Lab%203.md"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
+    </tr>
+    <tr>
+      <td>Deeds Project: Advance Lift Controller System</td>
+      <td align="center"><a href=""><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
     </tr>
   </tbody>
 </table>
