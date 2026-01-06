@@ -89,7 +89,7 @@ _This course introduces how digital electronics work and how to design and build
       <td align="center"><a href="https://github.com/zhiminnnnn/DL/blob/main/Lab%203.md"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
     </tr>
     <tr>
-      <td>Deeds Project: Advance Lift Controller System</td>
+      <td>Project: Advance Lift Controller System</td>
       <td align="center"><a href=""><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
     </tr>
   </tbody>
