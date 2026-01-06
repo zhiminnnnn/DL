@@ -1,6 +1,6 @@
 <div align="justify">
   
-# Lab 3 - Reflection
+# Lab 3: Synchronous Digital Counter
 Date: 5 Jan 2026
 ## Handout
 [Click here](https://drive.google.com/file/d/1JEXx8xaTuKBe6XTi_Xw3ZBZTcqS-q9uR/view?usp=sharing) to view the handout.
