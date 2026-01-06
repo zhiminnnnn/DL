@@ -3,7 +3,7 @@
 # Lab 1: Combinational Logic
 Date: 17 Nov 2025
 ## Handout
-[Click here]() to view the handout.
+[Click here](https://drive.google.com/file/d/13bCMhR4sLmy4ekKRUhM5cJP39c5r5gAd/view?usp=sharing) to view the handout.
 ## Reflection
 This lab is really cool because we get to build and test logic circuits using the ETS-5000 Digital Training System. We learn how to make circuits using basic logic gates like AND, OR and NOT on a breadboard. We use switches to set the logic levels. We can see the results through the LEDs. We also use probes to check the connections. 
 
