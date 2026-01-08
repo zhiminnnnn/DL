@@ -37,4 +37,36 @@ Similarly, the reverse process happen when the visitor want to go down. The coun
 </div>
 
 ## Project Requirements
+<table>
+  <thead>
+    <tr>
+      <th align="center">Aspect</th>
+      <th align="center">Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Report</td>
+      <td align="center"><a href=""><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
+    </tr>
+    <tr>
+      <td>Slide Presentation</td>
+      <td align="center"><a href=""><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
+    </tr>
+    <tr>
+      <td>Video Presentation</td>
+      <td align="center"><a href=""><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
+    </tr>
+    <tr>
+      <td>Deeds Design Circuit</td>
+      <td align="center"><a href=""><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
+    </tr>
+    <tr>
+      <td>Demo</td>
+      <td align="center"><a href=""><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
+    </tr>
+  </tbody>
+</table>
 </div>
+
+## Reflection
