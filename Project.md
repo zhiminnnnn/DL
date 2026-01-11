@@ -47,15 +47,15 @@ Similarly, the reverse process happen when the visitor want to go down. The coun
   <tbody>
     <tr>
       <td>Report</td>
-      <td align="center"><a href=""><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
+      <td align="center"><a href="https://drive.google.com/file/d/1V_G3geLNAM8j2k0K-J0jJbf0qcb6c6vp/view?usp=sharing"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
     </tr>
     <tr>
       <td>Slide Presentation</td>
-      <td align="center"><a href=""><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
+      <td align="center"><a href="https://www.canva.com/design/DAG9zTIcVQc/R2-Y8wjBEb0-7CbcS4OG-A/view?utm_content=DAG9zTIcVQc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha223328918"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
     </tr>
     <tr>
       <td>Video Presentation</td>
-      <td align="center"><a href=""><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
+      <td align="center"><a href="https://drive.google.com/file/d/1k-7kjdjgd-gKD8ftl0ZkdxR9uVfbl8bB/view?usp=drive_link"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
     </tr>
     <tr>
       <td>Deeds Design Circuit</td>
@@ -63,7 +63,7 @@ Similarly, the reverse process happen when the visitor want to go down. The coun
     </tr>
     <tr>
       <td>Demo</td>
-      <td align="center"><a href=""><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
+      <td align="center"><a href="https://drive.google.com/file/d/1uGzXgmPPR2nlKNAhZm3Hz8JlKdmfJj4H/view?usp=drive_link"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
     </tr>
   </tbody>
 </table>
