@@ -27,14 +27,17 @@
     </tr>
   </tbody>
 </table>
-
-## Case Study
+</div>
 <div align="justify">
 
->***"A hotel visitor want to use a building lift to go up from one level to another. The requirements are put in the desired level to go, tag the visitor room card, closed the lift door, and push UP 
-button. Then, the lift will goes up by counting up one level to another until its reaches to the desired level. The door will open and at the same time alert will be given to the visitors. 
-Similarly, the reverse process happen when the visitor want to go down. The counting sequence will decrease until it reaches to the desired floor"***
-</div>
+## Project Overview
+The idea for this project revolves around designing and simulating a practical control system for an 8-storey building ranging from floor 0 to 7. It fills a gap that exists between digital logic ideas, like flip-flop, counter, and comparator circuits, and their physical implementation. The project is tailored to meet new security issues with a password authentication mechanism with 4 digits.
+
+## Technical Stack & Skills
+- **Software**: Deeds (Digital Citcuit Simulator).
+- **Sequential Logic**: Designed a 3-bit synchronous up/down counter using negative-edge triggered D flip-flops for floor tracking.
+- **Combinational Logic**: Utilized 3-bit comparators for floor matching and 4-to-16 decoders for password processing.
+- **Optimization**: Derived logic expressions using Karnaugh Maps (K-Maps) to ensure efficient hardware implementation.
 
 ## Project Requirements
 <table>
@@ -67,6 +70,11 @@ Similarly, the reverse process happen when the visitor want to go down. The coun
     </tr>
   </tbody>
 </table>
-</div>
 
 ## Reflection
+>_Through this project, I was also able to gain a deeper insight into the implementation of sequential and combinational logic in a digital system from a technical perspective. The design of a 3-bit up and down synchronous counter using negative edge triggered D flip-flops has helped me use concepts of state diagram, state table, and Karnaugh maps in determining the next state expressions of a system accurately, and also use these expressions in the Deeds simulator software to interpret their effects on the system’s operations through the Boolean expressions in a theoretical environment._
+>
+>_One of the most challenging tasks was technically, in relation to making sure that there was proper synchronization between the counter circuit, comparator circuit, and clock enable circuit. Even the slightest error in this regard resulted in faulty transitions or oscillations between states. After careful debugging and simulation, I was able to learn how to effectively track signal flows in the circuit to ensure proper flip-flop inputs and outputs, and that the clock was enabled when it was supposed to be._
+>
+>_Moreover, the incorporation of the password authentication process increased my comprehensions about decoders, logic gating, and designing systems with a focus on security. The development process for a constrained password try routine, with the design for DFF as a 2-bit down counter, showed how digital logic can successfully be utilized for restricting unauthorized entries. Thus, working on this assignment has reinforced my capabilities for complex digital systems design, analysis, and development, and has encouraged me for further development work related to sophisticated digital logical concepts._
+</div>
