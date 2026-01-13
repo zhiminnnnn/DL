@@ -30,16 +30,16 @@
 </div>
 <div align="justify">
 
-## Project Overview
+## 🎯Project Overview
 The idea for this project revolves around designing and simulating a practical control system for an 8-storey building ranging from floor 0 to 7. It fills a gap that exists between digital logic ideas, like flip-flop, counter, and comparator circuits, and their physical implementation. The project is tailored to meet new security issues with a password authentication mechanism with 4 digits.
 
-## Technical Stack & Skills
+## 🛠️Technical Stack & Skills
 - **Software**: Deeds (Digital Citcuit Simulator).
 - **Sequential Logic**: Designed a 3-bit synchronous up/down counter using negative-edge triggered D flip-flops for floor tracking.
 - **Combinational Logic**: Utilized 3-bit comparators for floor matching and 4-to-16 decoders for password processing.
 - **Optimization**: Derived logic expressions using Karnaugh Maps (K-Maps) to ensure efficient hardware implementation.
 
-## Project Requirements
+## 📝Project Requirements
 <table>
   <thead>
     <tr>
@@ -71,7 +71,7 @@ The idea for this project revolves around designing and simulating a practical c
   </tbody>
 </table>
 
-## Reflection
+## 💡Reflection
 >_Through this project, I was able to gain a deeper insight into the implementation of sequential and combinational logic in a digital system from a technical perspective. The design of a 3-bit up and down synchronous counter using negative edge triggered D flip-flops has helped me use concepts of state diagram, state table, and Karnaugh maps in determining the next state expressions of a system accurately, and also use these expressions in the Deeds simulator software to interpret their effects on the system’s operations through the Boolean expressions in a theoretical environment._
 >
 >_One of the most challenging tasks was technically, in relation to making sure that there was proper synchronization between the counter circuit, comparator circuit, and clock enabler circuit. Even the slightest error in this regard resulted in faulty transitions or oscillations between states. After careful debugging and simulation, I was able to learn how to effectively track signal flows in the circuit to ensure proper flip-flop inputs and outputs, and that the clock was enabled when it was supposed to be._
