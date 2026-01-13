@@ -9,7 +9,7 @@ Section : 03
 Lecturer: Ts. Dr. Raja Zahilah Binti Raja Mohd Radzi
 ```
 _This course introduces how digital electronics work and how to design and build basic digital circuits through theory, hands-on labs, and projects._
-## Topics Covered
+## 📜Topics Covered
 <table>
   <thead>
     <tr>
@@ -67,7 +67,7 @@ _This course introduces how digital electronics work and how to design and build
   </tbody>
 </table>
 
-## Coursework
+## 📑Coursework
 <table>
   <thead>
     <tr>
@@ -95,6 +95,6 @@ _This course introduces how digital electronics work and how to design and build
   </tbody>
 </table>
 
-## Course Reflection
+## 🧠Course Reflection
 > _Digital Logic has proved to be very informative in my quest to learn the foundation and application of digital systems. At first, concepts such as the number systems, logic gates, and Boolean Algebra seemed quite complex and tough to grasp thoroughly. However, after several lectures and tutorials, I experienced some progress in my efforts to grasp these basic principles. Lab sessions were quite significant in aiding my understanding by allowing the learning to be reinforced actively. Putting my knowledge into practice using the Deeds Software to design and simulate a digital circuit has managed to integrate my theoretical knowledge into practical application aspects. Circuit design tasks involving the construction of combinational and sequential circuits managed to teach me the task of analyzing circuit performance to trace faults in the circuit and then enhancing designs by understanding limitations in systems performance. Project-based learning further managed to develop my learning by allowing me to learn the importance of teamwork, communicating to deliver tasks appropriately, and task coordination to meet the objectives of the whole learning project efficiently in class._
 </div>
