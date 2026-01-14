@@ -16,9 +16,9 @@ Completing Lab 3, Synchronous Digital Counter, provided significant practical in
 
 4. Triggering and Inputs: I learned to distinguish between synchronous inputs (J, K) that respond to clock edges and asynchronous inputs (PRESET and CLEAR) that affect the output immediately. Specifically, the 7476 IC was identified as a negative-edge triggered device.
 ### Personal Insights and Critical Thinking
-The analysis of the state diagram revealed that the counter behaves as a saturated counter rather than a recycling one. This exercise promoted critical thinking by requiring me to interpret how the logic gates feeding into the J and K inputs controlled the specific sequence of the counter. Managing the asynchronous switches (Switch 0 and 1) further demonstrated how to initialize a digital system to a known state before starting a clock sequence.
+Analysis of the state diagram revealed that the manner by which the counter operated was more like a saturated counter than a recycling counter. This question required critical thinking skills, as I had to interpret how the logic gates controlling the J and K input pins affected the specified sequence of the counter. A key part, relating to the control of the asynchronous switches (Switch 0 & 1), demonstrated the capability to restart a digital system with the initial known state before the clocking sequence.
 ### Conclusion
-This lab exercise successfully demonstrated how complex behaviors can be built from simple memory cells. Understanding these synchronous properties is vital for designing more advanced digital systems, such as registers and timers, in future projects.
+Through this laboratory exercise, the ability to fashion complex behaviors out of simple memory cells was greatly demonstrated. The importance of understanding the synchronization properties associated with these simple memory cells should not be overlooked, especially in the design of advanced digital systems.
 ## Photos
 ![20260105_143941](https://github.com/user-attachments/assets/ba00b63f-38ad-40fa-bedc-b0159da45456)
 </div>
