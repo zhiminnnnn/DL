@@ -77,4 +77,8 @@ The idea for this project revolves around designing and simulating a practical c
 >_One of the most challenging tasks was technically, in relation to making sure that there was proper synchronization between the counter circuit, comparator circuit, and clock enabler circuit. Even the slightest error in this regard resulted in faulty transitions or oscillations between states. After careful debugging and simulation, I was able to learn how to effectively track signal flows in the circuit to ensure proper flip-flop inputs and outputs, and that the clock was enabled when it was supposed to be._
 >
 >_Moreover, the incorporation of the password authentication process increased my comprehensions about decoders, logic gating, and designing systems with a focus on security. This was the procedure involved in designing the constrained password try routine with the DFF design as the 2-bit down counter that revealed how digital logic can be effectively harnessed to address the concern about limiting unauthorized attempts. Therefore, my experience with this project has reinforced my competency in designing complex digital systems and has encouraged me to further develop something involving advanced digital logical notions._
+
+<img width="1398" height="1212" alt="Fig_part2 final with instruction" src="https://github.com/user-attachments/assets/6c0d8e1e-bd86-4c77-984a-51c2b3af24dd" />
+
+_final design with manual instruction_
 </div>
