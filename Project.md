@@ -1,5 +1,7 @@
 <div align="center">
 
+![360_F_599301686_8rhCKGJutoNqnF73Xk89gEyu4IU53FeY](https://github.com/user-attachments/assets/a0604e51-c2b0-4824-8cc1-25e3ab8aed8e)
+
 # Deeds Simulation: Advance Lift Controller System
 <table>
   <thead>
